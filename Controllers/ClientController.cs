@@ -43,6 +43,19 @@ namespace ClientService.Controllers
             return Ok(_mapper.Map<ReadClientDTO>(ClientItem));
         }
 
+        [HttpGet("meet/id", Name = "GetClientByMeetId")]
+        public ActionResult<IEnumerable<ReadClientDTO>> GetClientByMeetId(int id)
+        {
+            var ClientItems = _repository.GetClientByMeetId(id);
+
+             if (ClientItems == null)
+            {
+                return NotFound();
+            }
+
+            return Ok(_mapper.Map<IEnumerable<ReadClientDTO>>(ClientItems));
+        }
+
         [HttpPost]
         public ActionResult<CreateClientDTO> CreateClient(CreateClientDTO clientDTO)
         {

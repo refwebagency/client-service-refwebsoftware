@@ -48,6 +48,11 @@ namespace ClientService.Data
             return _context.Client.FirstOrDefault(Client => Client.Id == id);
         }
 
+        public IEnumerable<Client> GetClientByMeetId(int id)
+        {
+            return _context.Client.Where(Client => Client.MeetId == id).ToList();
+        }
+
         public bool SaveChanges()
         {
             return (_context.SaveChanges() >=0 );

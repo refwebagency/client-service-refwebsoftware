@@ -13,6 +13,8 @@ namespace ClientService.Data
 
         Client GetClientById(int id);
 
+        IEnumerable<Client> GetClientByMeetId(int id);
+
         bool VerifyClientByEmail(string email);
 
         void UpdateClientById(int id);

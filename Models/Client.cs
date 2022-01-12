@@ -26,6 +26,6 @@ namespace ClientService.Models
         [Required]
         public string Company { get; set; }
 
-        // public Meet 
+        public int MeetId { get; set; }
     }
 }

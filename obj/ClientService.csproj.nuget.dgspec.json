@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wuill\\OneDrive\\Documents\\GitHub\\REF-WEB\\ClientService\\ClientService.csproj": {}
+    "C:\\Users\\wuill\\OneDrive\\Documents\\GitHub\\client-service-refwebsoftware\\ClientService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wuill\\OneDrive\\Documents\\GitHub\\REF-WEB\\ClientService\\ClientService.csproj": {
+    "C:\\Users\\wuill\\OneDrive\\Documents\\GitHub\\client-service-refwebsoftware\\ClientService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wuill\\OneDrive\\Documents\\GitHub\\REF-WEB\\ClientService\\ClientService.csproj",
+        "projectUniqueName": "C:\\Users\\wuill\\OneDrive\\Documents\\GitHub\\client-service-refwebsoftware\\ClientService.csproj",
         "projectName": "ClientService",
-        "projectPath": "C:\\Users\\wuill\\OneDrive\\Documents\\GitHub\\REF-WEB\\ClientService\\ClientService.csproj",
+        "projectPath": "C:\\Users\\wuill\\OneDrive\\Documents\\GitHub\\client-service-refwebsoftware\\ClientService.csproj",
         "packagesPath": "C:\\Users\\wuill\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wuill\\OneDrive\\Documents\\GitHub\\REF-WEB\\ClientService\\obj\\",
+        "outputPath": "C:\\Users\\wuill\\OneDrive\\Documents\\GitHub\\client-service-refwebsoftware\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wuill\\AppData\\Roaming\\NuGet\\NuGet.Config"
