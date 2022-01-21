@@ -1,6 +1,6 @@
 namespace ClientService.Dtos
 {
-    public class ReadClientDTO
+    public class ClientUpdateAsyncDto
     {
         public int Id { get; set; }
         public string Name { get; set; }
@@ -15,8 +15,7 @@ namespace ClientService.Dtos
 
         public string Company { get; set; }
 
-        
+        public string Event { get; set; }
 
-        // public Meet 
     }
 }

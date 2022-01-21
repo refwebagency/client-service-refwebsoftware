@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using AutoMapper;
+using client_service_refwebsoftware.AsyncDataClient;
 using ClientService.Data;
 using ClientService.Dtos;
 using ClientService.Models;
@@ -15,11 +16,13 @@ namespace ClientService.Controllers
     {
         private readonly IClientRepo _repository;
         private readonly IMapper _mapper;
+        private readonly IMessageBusClient _messageBusClient;
 
-        public ClientController(IMapper mapper, IClientRepo repository)
+        public ClientController(IMapper mapper, IClientRepo repository, IMessageBusClient messageBusClient)
         {
             _repository = repository;
             _mapper = mapper;
+            _messageBusClient = messageBusClient;
         }
 
         [HttpGet]
@@ -77,7 +80,7 @@ namespace ClientService.Controllers
         }
 
         [HttpPut("{id}", Name = "UpdateClientById")]
-        public ActionResult<UpdateClientDTO> UpdateClientById(int id, UpdateClientDTO clientDTO)
+        public ActionResult<ReadClientDTO> UpdateClientById(int id, UpdateClientDTO clientDTO)
         {
             var clientItem = _repository.GetClientById(id);
 
@@ -90,6 +93,34 @@ namespace ClientService.Controllers
 
             _repository.UpdateClientById(id);
             _repository.SaveChanges();
+            
+
+
+            // Envoie Async des Data
+
+            try
+            {
+                Console.WriteLine(clientItem.Address);
+              
+                //var clientItemUpdated = _repository.GetClientById(id); 
+                //On envoie les données du client mis à jour avec les données du DTO
+                var clientUpdatedDto = _mapper.Map<ClientUpdateAsyncDto>(clientItem);
+
+                // On dit que l'event est égal à "Client_Updated"
+                clientUpdatedDto.Event = "Client_Updated";
+                Console.WriteLine(clientUpdatedDto.Address);
+                Console.WriteLine(clientUpdatedDto.Id);
+                Console.WriteLine(clientUpdatedDto.LastName);
+                Console.WriteLine(clientUpdatedDto.Event);
+
+                // On appelle la méthode qui se trouve dans MessageBusClient
+                _messageBusClient.UpdatedClient(clientUpdatedDto);
+            }
+
+            catch (System.Exception ex)
+            {
+                Console.WriteLine("Error: Async" + ex.Message);
+            }
 
             return CreatedAtRoute(nameof(GetClientById), new {id = clientDTO.Id }, clientDTO);
         }

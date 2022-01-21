@@ -72,3 +72,79 @@ C:\Users\wuill\OneDrive\Documents\GitHub\client-service-refwebsoftware\obj\Debug
 C:\Users\wuill\OneDrive\Documents\GitHub\client-service-refwebsoftware\obj\Debug\net5.0\ref\ClientService.dll
 C:\Users\wuill\OneDrive\Documents\GitHub\client-service-refwebsoftware\obj\Debug\net5.0\ClientService.pdb
 C:\Users\wuill\OneDrive\Documents\GitHub\client-service-refwebsoftware\obj\Debug\net5.0\ClientService.genruntimeconfig.cache
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\bin\Debug\net5.0\appsettings.json
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\bin\Debug\net5.0\ClientService.exe
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\bin\Debug\net5.0\ClientService.deps.json
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\bin\Debug\net5.0\ClientService.runtimeconfig.json
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\bin\Debug\net5.0\ClientService.runtimeconfig.dev.json
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\bin\Debug\net5.0\ClientService.dll
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\bin\Debug\net5.0\ref\ClientService.dll
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\bin\Debug\net5.0\ClientService.pdb
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\obj\Debug\net5.0\ClientService.csproj.AssemblyReference.cache
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\obj\Debug\net5.0\ClientService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\obj\Debug\net5.0\ClientService.AssemblyInfoInputs.cache
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\obj\Debug\net5.0\ClientService.AssemblyInfo.cs
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\obj\Debug\net5.0\ClientService.csproj.CoreCompileInputs.cache
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\obj\Debug\net5.0\ClientService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\obj\Debug\net5.0\ClientService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\obj\Debug\net5.0\staticwebassets\ClientService.StaticWebAssets.Manifest.cache
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\obj\Debug\net5.0\staticwebassets\ClientService.StaticWebAssets.xml
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\obj\Debug\net5.0\scopedcss\bundle\ClientService.styles.css
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\obj\Debug\net5.0\ClientService.RazorTargetAssemblyInfo.cache
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\obj\Debug\net5.0\ClientService.csproj.CopyComplete
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\obj\Debug\net5.0\ClientService.dll
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\obj\Debug\net5.0\ref\ClientService.dll
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\obj\Debug\net5.0\ClientService.pdb
+C:\Users\Maxime\Desktop\client-service-refwebsoftware\obj\Debug\net5.0\ClientService.genruntimeconfig.cache
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\bin\Debug\net5.0\appsettings.json
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\bin\Debug\net5.0\appsettings.Production.json
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\bin\Debug\net5.0\ClientService.exe
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\bin\Debug\net5.0\ClientService.deps.json
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\bin\Debug\net5.0\ClientService.runtimeconfig.json
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\bin\Debug\net5.0\ClientService.runtimeconfig.dev.json
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\bin\Debug\net5.0\ClientService.dll
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\bin\Debug\net5.0\ref\ClientService.dll
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\bin\Debug\net5.0\ClientService.pdb
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\obj\Debug\net5.0\ClientService.csproj.AssemblyReference.cache
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\obj\Debug\net5.0\ClientService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\obj\Debug\net5.0\ClientService.AssemblyInfoInputs.cache
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\obj\Debug\net5.0\ClientService.AssemblyInfo.cs
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\obj\Debug\net5.0\ClientService.csproj.CoreCompileInputs.cache
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\obj\Debug\net5.0\ClientService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\obj\Debug\net5.0\ClientService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\obj\Debug\net5.0\staticwebassets\ClientService.StaticWebAssets.Manifest.cache
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\obj\Debug\net5.0\staticwebassets\ClientService.StaticWebAssets.xml
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\obj\Debug\net5.0\scopedcss\bundle\ClientService.styles.css
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\obj\Debug\net5.0\ClientService.RazorTargetAssemblyInfo.cache
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\obj\Debug\net5.0\ClientService.csproj.CopyComplete
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\obj\Debug\net5.0\ClientService.dll
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\obj\Debug\net5.0\ref\ClientService.dll
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\obj\Debug\net5.0\ClientService.pdb
+C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\obj\Debug\net5.0\ClientService.genruntimeconfig.cache

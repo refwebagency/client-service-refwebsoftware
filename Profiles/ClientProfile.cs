@@ -11,6 +11,10 @@ namespace ClientService.Profiles
             CreateMap<Client, ReadClientDTO>();
             CreateMap<CreateClientDTO, Client>();
             CreateMap<UpdateClientDTO, Client>();
+
+            // Partie RabbitMQ
+            CreateMap<Client, ClientUpdatedDto>();
+            CreateMap<Client, ClientUpdateAsyncDto>();
         }
     }
 }

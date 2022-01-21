@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using client_service_refwebsoftware.AsyncDataClient;
 using ClientService.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -35,6 +36,8 @@ namespace ClientService
             // Ajout du context pour acceder à la base de donnée en local 
             services.AddDbContext<AppDbContext>(options => options.UseInMemoryDatabase("Client"));
             services.AddScoped<IClientRepo, ClientRepo>();
+            services.AddSingleton<IMessageBusClient, MessageBusClient>();
+
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "ClientService", Version = "v1" });
