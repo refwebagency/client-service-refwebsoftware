@@ -148,3 +148,5 @@ C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\
 C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\obj\Debug\net5.0\ref\ClientService.dll
 C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\obj\Debug\net5.0\ClientService.pdb
 C:\Users\Maxime\Desktop\RefWebLogiciel - Services\client-service-refwebsoftware\obj\Debug\net5.0\ClientService.genruntimeconfig.cache
+C:\Users\wuill\OneDrive\Documents\GitHub\client-service-refwebsoftware\bin\Debug\net5.0\appsettings.Production.json
+C:\Users\wuill\OneDrive\Documents\GitHub\client-service-refwebsoftware\bin\Debug\net5.0\RabbitMQ.Client.dll
