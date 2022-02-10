@@ -42,6 +42,10 @@ namespace ClientService
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "ClientService", Version = "v1" });
             });
+            services.AddCors(options => options.AddPolicy("ApiCorsPolicy", builder =>
+            {
+                builder.WithOrigins("http://localhost:4200").AllowAnyMethod().AllowAnyHeader();
+            }));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -59,6 +63,8 @@ namespace ClientService
             app.UseRouting();
 
             app.UseAuthorization();
+
+            app.UseCors("ApiCorsPolicy"); 
 
             app.UseEndpoints(endpoints =>
             {

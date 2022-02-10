@@ -46,7 +46,7 @@ namespace ClientService.Controllers
             return Ok(_mapper.Map<ReadClientDTO>(ClientItem));
         }
 
-        [HttpGet("meet/id", Name = "GetClientByMeetId")]
+        [HttpGet("meet/{id}", Name = "GetClientByMeetId")]
         public ActionResult<IEnumerable<ReadClientDTO>> GetClientByMeetId(int id)
         {
             var ClientItems = _repository.GetClientByMeetId(id);
@@ -75,7 +75,7 @@ namespace ClientService.Controllers
             }
 
             var readClient = _mapper.Map<ReadClientDTO>(clientModel);
-
+             
             return CreatedAtRoute(nameof(GetClientById), new {id = readClient.Id }, readClient);
         }
 

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wuill\\OneDrive\\Documents\\GitHub\\client-service-refwebsoftware\\ClientService.csproj": {}
+    "C:\\Users\\nicor\\Bureau\\Stage Dreamoove - RefWeb\\Ref-Web\\client-service-refwebsoftware\\ClientService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wuill\\OneDrive\\Documents\\GitHub\\client-service-refwebsoftware\\ClientService.csproj": {
+    "C:\\Users\\nicor\\Bureau\\Stage Dreamoove - RefWeb\\Ref-Web\\client-service-refwebsoftware\\ClientService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wuill\\OneDrive\\Documents\\GitHub\\client-service-refwebsoftware\\ClientService.csproj",
+        "projectUniqueName": "C:\\Users\\nicor\\Bureau\\Stage Dreamoove - RefWeb\\Ref-Web\\client-service-refwebsoftware\\ClientService.csproj",
         "projectName": "ClientService",
-        "projectPath": "C:\\Users\\wuill\\OneDrive\\Documents\\GitHub\\client-service-refwebsoftware\\ClientService.csproj",
-        "packagesPath": "C:\\Users\\wuill\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wuill\\OneDrive\\Documents\\GitHub\\client-service-refwebsoftware\\obj\\",
+        "projectPath": "C:\\Users\\nicor\\Bureau\\Stage Dreamoove - RefWeb\\Ref-Web\\client-service-refwebsoftware\\ClientService.csproj",
+        "packagesPath": "C:\\Users\\nicor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nicor\\Bureau\\Stage Dreamoove - RefWeb\\Ref-Web\\client-service-refwebsoftware\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\wuill\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\nicor\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
